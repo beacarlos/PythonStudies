@@ -9,5 +9,5 @@ N3 = random.choice(names)
 phrase = f"Os 3 vencedores do sorteio são da plataforma do discord são: {N1}, {N2}, {N3}"
 
 print(phrase)
-names.pop()
+# names.pop()
 print(names)
